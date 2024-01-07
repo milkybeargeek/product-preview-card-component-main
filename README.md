@@ -24,6 +24,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
+![product-card-final-view](https://github.com/milkybeargeek/product-preview-card-component-main/assets/146126513/9cc53eff-01ef-45aa-983a-567ac232c96f)
 
 ### Links
 
