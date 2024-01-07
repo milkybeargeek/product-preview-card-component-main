@@ -45,6 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here]()
 - Frontend Mentor - (https://www.frontendmentor.io/profile/milkybeargeek)
 - Twitter - [@milkybeargeek](https://twitter.com/milkybeargeek)
